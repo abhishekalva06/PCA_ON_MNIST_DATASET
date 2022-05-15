@@ -24,5 +24,7 @@ A simple neural network model was implemented as a part of our architecture wher
 An accuracy of 98% was achieved.
 
 To run the model, download the data set, run the ipynb notebook. Please install the required libraries before running the model.
+
 The dataset was downloaded from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+
 The columns were renamed from pixel0 to pixel783 for an easy interpretation.
